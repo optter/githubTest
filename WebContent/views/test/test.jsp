@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	GitHub Test Project입니다.
+	<h1>${ test }</h1>
 </body>
 </html>
